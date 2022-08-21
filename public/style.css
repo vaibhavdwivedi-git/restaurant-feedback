@@ -43,6 +43,7 @@ body {
   width: 100vw;
   background-color: var(--bg-grey);
   padding-bottom: 8px;
+  z-index: 3;
 }
 
 .headone {
@@ -69,6 +70,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 24px;
+  z-index: 2;
 }
 
 .labeltag {
